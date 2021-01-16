@@ -1,0 +1,23 @@
+.card img{
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+header, .color{
+    background-color: rgb(255, 242, 244);
+}
+.butt{
+    background-color: rgb(99, 141, 0);
+    border-radius: 10px;
+}
+h1{
+    color:  rgb(9, 9, 48);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
+h5{
+    color:  rgb(9, 9, 48);
+    font-weight: 600;
+}
+.card-footer h2{
+    color: coral;
+}
