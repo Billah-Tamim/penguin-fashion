@@ -21,3 +21,7 @@ h5{
 .card-footer h2{
     color: coral;
 }
+.my-foo{
+    border: 0;
+    background-color: white;
+}
